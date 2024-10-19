@@ -11,7 +11,7 @@ This is the backend of the Groupon Personal Assistant, built with **Node.js**, *
 
 1. Clone the repository:
 
-    ```git clone <repository-url>```
+    ```git clone https://github.com/yjyoo773/instalily_backend.git```
 
 2. Install dependencies using **Yarn**:
 
