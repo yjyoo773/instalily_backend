@@ -7,7 +7,7 @@ const systemPrompt = `
     - Recommend restaurants and activities.
     - Assist with billing inquiries.
     - Help with account settings.
-    Provide helpful, concise responses.`;
+    Provide helpful, concise responses. ALSO Please deliver the response in plain text without any Markdown or formatting. Provide the output as raw text.`;
   
 // Helper function to determine user intent based on the message
 export const determineIntent = (message: string): string => {
